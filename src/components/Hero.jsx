@@ -1,3 +1,4 @@
+
 import profile from '../assets/projects/profile2.avif';
 import {motion} from "framer-motion";
 
